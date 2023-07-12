@@ -1,0 +1,100 @@
+﻿id ,year,state,district,destination,tourist,Overnight Tourists,total visotor arrived,accomodation unit,days stay,Mode of Transportation,Travel Arrangement Mode,Total number of Foreign Visitors
+1,2019,maharashtra,AHMEDNAGAR,Shirdi,Domestic,outside the state,17593,3,1,Train,Tour Operator,delhi
+2,2020,maharashtra,AHMEDNAGAR,Shirdi,Foreign,outside country,8545,4,2,Air,Tour Operator,France
+3,2021,maharashtra,AHMEDNAGAR,Shirdi,Foreign,outside country,1365,5,3,Air,Tour Operator,France
+4,2022,maharashtra,AHMEDNAGAR,Shirdi,Foreign,outside country,125,5,1,Air,Tour Operator,France
+5,2020,maharashtra,AHMEDNAGAR,Bhandardara,Domestic,outside the state,1102,2,2,Bus,Office / Employer,delhi
+6,2021,maharashtra,AHMEDNAGAR,Bhandardara,Domestic,outside the state,256,5,2,Personal Vehicle,Self,delhi
+7,2022,maharashtra,AHMEDNAGAR,Bhandardara,Domestic,outside the state,259,8,5,Personal Vehicle,Self,delhi
+8,2020,maharashtra,AHMEDNAGAR,Kalasubai Harischandra,Domestic,within the state,2225,9,0,Personal Vehicle,Self,maharashtra
+9,2021,maharashtra,AHMEDNAGAR,Kalasubai Harischandra,Domestic,within the state,896,1,2,Personal Vehicle,Self,maharashtra
+10,2022,maharashtra,KOLHAPUR,Mahalaxmi Temple,Foreign,outside country,369,1,1,Air,Tour Operator,France
+11,2020,maharashtra,KOLHAPUR,Mahalaxmi Temple,Foreign,outside country,968,5,3,Air,Tour Operator,France
+12,2021,maharashtra,KOLHAPUR,Mahalaxmi Temple,Foreign,outside country,225,3,1,Air,Tour Operator,France
+13,2022,maharashtra,KOLHAPUR,Mahalaxmi Temple,Domestic,within the state,58,5,2,Personal Vehicle,Self,maharashtra
+14,2020,maharashtra,KOLHAPUR,Mahalaxmi Temple,Domestic,within the state,23,2,5,Personal Vehicle,Self,maharashtra
+15,2021,maharashtra,KOLHAPUR,Mahalaxmi Temple,Domestic,within the state,664,1,3,Personal Vehicle,Self,maharashtra
+16,2022,maharashtra,KOLHAPUR,Mahalaxmi Temple,Domestic,outside the state,266,6,6,Personal Vehicle,Self,delhi
+17,2020,maharashtra,KOLHAPUR,Mahalaxmi Temple,Domestic,outside the state,5896,3,2,Personal Vehicle,Self,delhi
+18,2021,maharashtra,KOLHAPUR,Mahalaxmi Temple,Domestic,outside the state,25,4,0,Personal Vehicle,Self,delhi
+19,2022,maharashtra,MUMBAI,Gateway of India,Foreign,outside country,3369,2,1,Air,Tour Operator,France
+20,2020,maharashtra,MUMBAI,Gateway of India,Foreign,outside country,2458,4,2,Air,Tour Operator,France
+21,2021,maharashtra,MUMBAI,Gateway of India,Foreign,outside country,58,6,1,Air,Tour Operator,France
+22,2022,maharashtra,MUMBAI,Gateway of India,Foreign,outside country,266,2,6,Air,Tour Operator,Australia
+23,2020,maharashtra,MUMBAI,Gateway of India,Foreign,outside country,245,3,1,Air,Tour Operator,Australia
+24,2021,maharashtra,MUMBAI,Gateway of India,Foreign,outside country,696,3,4,Air,Tour Operator,Australia
+25,2022,maharashtra,MUMBAI,Sidhivinayak,Foreign,outside country,25,5,2,Air,Tour Operator,Australia
+26,2022,maharashtra,MUMBAI,Sidhivinayak,Domestic,outside the state,158,4,3,Bus,Office / Employer,delhi
+27,2022,maharashtra,MUMBAI,Sidhivinayak,Domestic,outside the state,369,2,5,Bus,Office / Employer,delhi
+28,2022,maharashtra,MUMBAI,Marine Drive,Domestic,within the state,896,6,4,Bus,Office / Employer,maharashtra
+29,2022,maharashtra,MUMBAI,Marine Drive,Domestic,within the state,258,3,3,Bus,Office / Employer,maharashtra
+30,2022,maharashtra,PUNE,LONAVALE,Foreign,outside country,23,1,6,Air,Tour Operator,Australia
+31,2022,maharashtra,PUNE,LONAVALE,Foreign,outside country,664,2,2,Air,Tour Operator,Australia
+32,2022,maharashtra,PUNE,LONAVALE,Foreign,outside country,266,3,3,Air,Tour Operator,Australia
+33,2022,maharashtra,PUNE,LONAVALE,Foreign,outside country,5896,4,4,Air,Tour Operator,Canada
+34,2022,maharashtra,PUNE,LONAVALE,Domestic,within the state,25,1,1,Bus,Office / Employer,maharashtra
+35,2022,maharashtra,PUNE,LONAVALE,Domestic,within the state,3369,2,2,Bus,Office / Employer,maharashtra
+36,2022,maharashtra,PUNE,LONAVALE,Foreign,outside country,2458,3,3,Air,Tour Operator,Canada
+37,2022,maharashtra,PUNE,LONAVALE,Foreign,outside country,58,4,6,Air,Tour Operator,Canada
+38,2022,maharashtra,PUNE,Panchet Dam,Foreign,outside country,266,2,3,Air,Tour Operator,Canada
+39,2022,maharashtra,PUNE,Panchet Dam,Domestic,within the state,245,5,4,Bus,Office / Employer,maharashtra
+40,2022,maharashtra,PUNE,Panchet Dam,Domestic,outside the state,696,3,5,Bus,Office / Employer,delhi
+41,2022,maharashtra,PUNE,Panchet Dam,Domestic,outside the state,25,4,9,Bus,Office / Employer,punjab
+42,2022,maharashtra,PUNE,Panchet Dam,Domestic,outside the state,158,2,2,Bus,Office / Employer,punjab
+43,2022,maharashtra,PUNE,Sinhgad,Domestic,outside the state,369,3,5,Bus,Office / Employer,punjab
+44,2022,maharashtra,PUNE,Sinhgad,Domestic,outside the state,896,4,6,Bus,Office / Employer,punjab
+45,2022,maharashtra,PUNE,Sinhgad,Foreign,outside country,258,2,4,Air,Tour Operator,Canada
+46,2022,maharashtra,PUNE,Sinhgad,Foreign,outside country,20,3,9,Air,Tour Operator,Canada
+47,2022,maharashtra,RATNAGIRI,Ganpatipule,Foreign,outside country,140,1,5,Air,Tour Operator,Canada
+48,2022,maharashtra,RATNAGIRI,Ganpatipule,Foreign,outside country,20,0,6,Air,Tour Operator,Canada
+49,2022,maharashtra,RATNAGIRI,Ganpatipule,Foreign,outside country,69,0,4,Air,Tour Operator,Canada
+50,2022,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,56,0,5,Bus,Office / Employer,punjab
+51,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,211,2,6,Bus,Office / Employer,punjab
+52,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,22,2,2,Bus,Tour Operator,punjab
+53,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,36,0,6,Bus,Tour Operator,punjab
+54,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,69,3,4,Bus,Tour Operator,punjab
+55,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,55,2,1,Bus,Tour Operator,punjab
+56,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,outside the state,579,1,3,Bus,Tour Operator,rajasthan
+57,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,within the state,299,2,1,Train,Tour Operator,maharashtra
+58,2021,maharashtra,RATNAGIRI,Ganpatipule,Domestic,within the state,34,3,2,Train,Tour Operator,maharashtra
+59,2021,maharashtra,SINDHUDURG,Malvan beach,Foreign,outside country,579,1,6,Air,Tour Operator,Canada
+60,2021,maharashtra,SINDHUDURG,Malvan beach,Foreign,outside country,899,2,1,Air,Self,Canada
+61,2021,maharashtra,SINDHUDURG,Malvan beach,Foreign,outside country,630,3,3,Air,Self,Germany
+62,2021,maharashtra,SINDHUDURG,Malvan beach,Foreign,outside country,660,0,3,Air,Self,Germany
+63,2021,maharashtra,SINDHUDURG,Malvan beach,Foreign,outside country,690,1,5,Air,Self,Germany
+64,2021,maharashtra,SINDHUDURG,Malvan beach,Foreign,outside country,300,0,6,Air,Self,Germany
+65,2021,maharashtra,SINDHUDURG,Malvan beach,Domestic,within the state,250,0,4,Train,Tour Operator,maharashtra
+66,2021,maharashtra,SINDHUDURG,Malvan beach,Domestic,within the state,630,1,2,Train,Tour Operator,maharashtra
+67,2021,maharashtra,SINDHUDURG,Malvan beach,Domestic,within the state,20,0,6,Train,Tour Operator,maharashtra
+68,2021,maharashtra,SINDHUDURG,Amboli Waterfalls,Domestic,outside the state,140,2,8,Train,Tour Operator,rajasthan
+69,2021,maharashtra,SINDHUDURG,Amboli Waterfalls,Domestic,outside the state,20,3,9,Train,Tour Operator,rajasthan
+70,2021,maharashtra,SINDHUDURG,Amboli Waterfalls,Domestic,outside the state,69,1,4,Train,Tour Operator,kerala
+71,2021,maharashtra,SINDHUDURG,Amboli Waterfalls,Domestic,outside the state,56,2,5,Train,Tour Operator,kerala
+72,2021,maharashtra,SATARA,Mahabaleshwar,Foreign,outside country,211,1,6,Air,Self,Germany
+73,2020,maharashtra,SATARA,Mahabaleshwar,Foreign,outside country,22,2,9,Air,Tour Operator,Germany
+74,2020,maharashtra,SATARA,Mahabaleshwar,Foreign,outside country,36,0,2,Air,Tour Operator,Belgium
+75,2020,maharashtra,SATARA,Mahabaleshwar,Domestic,outside the state,69,0,6,Train,Tour Operator,kerala
+76,2020,maharashtra,SATARA,Mahabaleshwar,Domestic,outside the state,55,0,2,Train,Tour Operator,banglore
+77,2020,maharashtra,SATARA,Panchgani,Domestic,outside the state,579,1,2,Train,Tour Operator,banglore
+78,2020,maharashtra,SATARA,Panchgani,Domestic,outside the state,299,0,6,Train,Tour Operator,banglore
+79,2020,maharashtra,SATARA,Panchgani,Domestic,outside the state,34,1,4,Train,Tour Operator,gujrat
+80,2020,maharashtra,SATARA,Ajinkyatra fort,Domestic,outside the state,579,1,5,Train,Tour Operator,gujrat
+81,2020,maharashtra,SATARA,Ajinkyatra fort,Domestic,within the state,226,2,6,Train,Tour Operator,maharashtra
+82,2020,maharashtra,SATARA,Ajinkyatra fort,Foreign,outside country,125,3,2,Air,Tour Operator,Belgium
+83,2020,maharashtra,SATARA,Ajinkyatra fort,Foreign,outside country,559,4,3,Air,Tour Operator,Belgium
+84,2020,maharashtra,RAIGHAD,MATHERAN,Foreign,outside country,36,2,6,Air,Tour Operator,Finland
+85,2020,maharashtra,RAIGHAD,MATHERAN,Foreign,outside country,22,0,5,Air,Tour Operator,Finland
+86,2020,maharashtra,RAIGHAD,MATHERAN,Foreign,outside country,58,2,6,Air,Tour Operator,Finland
+87,2020,maharashtra,RAIGHAD,MATHERAN,Foreign,outside country,5896,3,4,Air,Tour Operator,Finland
+88,2020,maharashtra,RAIGHAD,MATHERAN,Foreign,outside country,2458,0,6,Air,Tour Operator,Finland
+89,2020,maharashtra,RAIGHAD,MURUD JANJIRA,Foreign,outside country,879,1,5,Air,Tour Operator,Maldives
+90,2019,maharashtra,RAIGHAD,MURUD JANJIRA,Domestic,outside the state,555,0,6,Personal Vehicle,Self,gujrat
+91,2019,maharashtra,RAIGHAD,MURUD JANJIRA,Domestic,outside the state,558,2,5,Train,Tour Operator,gujrat
+92,2019,maharashtra,RAIGHAD,PRATAPGARH,Foreign,outside country,578,0,6,Train,Tour Operator,Maldives
+93,2019,maharashtra,RAIGHAD,PRATAPGARH,Foreign,outside country,369,5,2,Air,Self,Maldives
+94,2019,maharashtra,RAIGHAD,PRATAPGARH,Domestic,outside the state,587,2,3,Train,Tour Operator,gujrat
+95,2019,maharashtra,RAIGHAD,PRATAPGARH,Domestic,within the state,99,1,1,Train,Tour Operator,maharashtra
+96,2019,maharashtra,MUMBAI,Jahangir art gallery,Foreign,outside country,2458,2,2,Air,Self,Maldives
+97,2019,maharashtra,MUMBAI,Jahangir art gallery,Foreign,outside country,259,1,3,Air,Self,Maldives
+98,2019,maharashtra,PUNE,Shivneri Fort,Domestic,within the state,6812,6,3,Personal Vehicle,Self,maharashtra
+99,2019,maharashtra,PUNE,Shivneri Fort,Domestic,outside the state,458,2,4,Personal Vehicle,Self,gujrat
